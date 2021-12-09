@@ -14,7 +14,14 @@
 
 :root{--maincolor:rgb(15 116 143 / 70%)     ; --seccolor:rgb(25 200 250)}
 
-*{ box-sizing: border-box; margin: 0;  }
+*{ box-sizing: border-box; margin: 0;  
+
+
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+
+
+}
 
 
 
